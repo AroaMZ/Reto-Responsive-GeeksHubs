@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background-size: cover;
+}
+ html, body{
+    height: 100%;
+    background-image: url(background2.jpeg);
+  
+  
+    
+}
+.container{
+    height: 80%;
+}
+
+.color{
+    background-color: aquamarine;
+}
+
+
+
+
